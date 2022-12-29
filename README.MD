@@ -4,7 +4,7 @@
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-dimasmaulana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/www.linkedin.com/in/dimas-maulana-firdaus-a76470171)](https:/www.linkedin.com/in/dimas-maulana-firdaus-a76470171) [![Gmail Badge](https://img.shields.io/badge/-dimas00758@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dimas00758@gmail.com)](mailto:dimas00758@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-dimasmaulana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dimas-maulana-firdaus-a76470171)](https://www.linkedin.com/in/dimas-maulana-firdaus-a76470171) [![Gmail Badge](https://img.shields.io/badge/-dimas00758@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dimas00758@gmail.com)](mailto:dimas00758@gmail.com) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanburnn" alt="sanburnn" /> </p>
 
 
