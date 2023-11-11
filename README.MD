@@ -33,7 +33,7 @@
 				'Swiming',
 				'Watching Movie',
                 'Coding'
-			]
+				  ]
 	
 	def getCity():
 		return Pasuruan_Indonesia()
