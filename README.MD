@@ -30,9 +30,9 @@
  	user = 'Dimas Maulana Firdaus'
 		current_work = 'Writing code'
 		hobbies = [
-				'Swiming',
-				'Watching Movie',
-                'Coding'
+					'Swiming',
+					'Watching Movie',
+					'Coding'
 				  ]
 	
 	def getCity():
@@ -41,12 +41,10 @@
 	def Ambitions():
 		Married()
 		Create StartUp()
-		# Assume 10 more awesome ambitions here  ;)
-	
  ```
  
 ## Current Works
- * Started learning Golang Stack !!
+ * Started learning Machine Learning !!
  * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
  * Getting Started with NodeJS and the Golang !!
  
