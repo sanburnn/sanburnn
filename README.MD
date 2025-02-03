@@ -21,9 +21,9 @@
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
  
  ## Technologies I Use
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/android.svg' height='40'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/>
- <img src = 'https://github.com/sanburnn/DimasMF/blob/master/images/gogin.png' width='30'/> <img src = 'https://github.com/sanburnn/DimasMF/blob/master/images/next.png' width='30'/> <img src = 'https://github.com/sanburnn/DimasMF/blob/master/images/swift.png' width='30'/> <img src = 'https://github.com/sanburnn/DimasMF/blob/master/images/react.png' width='30'/>
- <img src = 'https://github.com/sanburnn/DimasMF/blob/master/images/laravel.png' width='30'/> <img src = 'https://github.com/sanburnn/DimasMF/blob/master/images/ci.png' width='40'/>
+ <img src = './images/android.svg' height='40'/><img src = './images/flutter-logo.svg' width='30'/> <img src = './images/git.svg' width='30'/> <img src = './images/nodejs.svg' width='33'/>
+ <img src = './images/gogin.png' width='30'/> <img src = './images/next.png' width='30'/> <img src = './images/swift.png' width='80'/> <img src = './images/react.png' width='40'/>
+ <img src = './images/laravel.png' width='50'/> <img src = './images/ci.png' width='90'/>
  
  ## Who am I?
  ```python
