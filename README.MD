@@ -11,7 +11,7 @@
 
 ## :computer: Technologies I Love
 * Flutter
-* Data Science
+* Machine Learning Kit
 * Frontend and Backend Web Development
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sanburnn&layout=compact">
@@ -22,7 +22,7 @@
  
  ## Technologies I Use
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/android.svg' height='40'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/>
- <img src = 'https://github.com/sanburnn/DimasMF/blob/master/images/gogin.png' width='30'/>
+ <img src = 'https://github.com/sanburnn/DimasMF/blob/master/images/gogin.png' width='30'/> <img src = 'https://github.com/sanburnn/DimasMF/blob/master/images/next.png' width='30'/> <img src = 'https://github.com/sanburnn/DimasMF/blob/master/images/swift.png' width='30'/> <img src = 'https://github.com/sanburnn/DimasMF/blob/master/images/react.png' width='30'/>
  
  ## Who am I?
  ```python
